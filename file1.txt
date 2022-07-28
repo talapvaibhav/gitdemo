@@ -1,5 +1,11 @@
 welcome to git!
 
+
 change : the change is fixed for the bug1.
 
 change : by the team mate fot the Change request 1 (CR1) 3 way merging.
+
+change : is fixed for the bug1..
+
+change : for bug2 to check 3-way merging with conflict.
+

@@ -1,1 +1,3 @@
 welcome to git!
+
+the change is fixed for the bug1.

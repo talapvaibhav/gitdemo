@@ -1,3 +1,5 @@
 welcome to git!
 
-the change is fixed for the bug1.
+the change is fixed for the bug1..
+
+change for bug2 to check 3-way merging with conflict.

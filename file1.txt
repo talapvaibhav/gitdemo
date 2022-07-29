@@ -11,3 +11,5 @@ change :- Is fixed for the bug1..
 change :- For bug2 to check 3-way merging with conflict.
 
 change :- For bug3 to check rebase with conflict.
+
+change :- For WI5 to check stash - half done work.
